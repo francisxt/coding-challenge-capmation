@@ -51,3 +51,4 @@ C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChall
 C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\ref\CodingChallenge.dll
 C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.pdb
 C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.AssemblyReference.cache

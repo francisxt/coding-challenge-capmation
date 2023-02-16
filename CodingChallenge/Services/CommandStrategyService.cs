@@ -4,10 +4,9 @@ using System.Text.RegularExpressions;
 namespace CodingChallenge.Services
 {
     //Realizamos la implementacion de la interfaz con cada uno de los metodos solicitados
-    public class CommandStrategyService : ICommandStrategy
+    public class GetUsedSpaceInHardDrive : ICommandStrategy
     {
-        //Metodo para retornar el espacio utilizado en el disco
-        public async Task<string> GetUsedSpaceInHardDriveAsync()
+        public async Task<string> ExecuteAsync()
         {
             try
             {
@@ -34,31 +33,18 @@ namespace CodingChallenge.Services
                 return $"Hubo un problema {ex.Message}";
             }
         }
-        //Metodo para obtener el nombre del host
-        public async Task<string> GetHostnameAsync()
+
+        //Metodo para transformar Bytes y GigaBytes
+        private double ConvertBytesToGigabytes(long bytes)
         {
-            try
-            {
-                //Usamos la liberia para ejecutar un comando con CMD
-                var cmd = await CMDExecutionLibrary.RunCommandAsync("hostname");
-                if (cmd.result)
-                {
-                    //Retornamos el nombre del host
-                    return cmd.response.Replace("\r\n", "");
-                }
-                else
-                {
-                    //No se ejecuto el comando 
-                    return ($"Error en la ejecucion del comando. {cmd.response}");
-                }
-            }
-            catch (Exception ex)
-            {
-                return $"Hubo un problema {ex.Message}";
-            }
+            const long BytesInGigabyte = 1073741824L;
+            return bytes / (double)BytesInGigabyte;
         }
-        //Metodo para retornar las direcciones IP del equipo
-        public async Task<string> GetPrivateIpAddressAsync()
+    }
+
+    public class GetPrivateIpAddress : ICommandStrategy
+    {
+        public async Task<string> ExecuteAsync()
         {
             try
             {
@@ -90,12 +76,31 @@ namespace CodingChallenge.Services
                 return $"Hubo un problema {ex.Message}";
             }
         }
+    }
 
-        //Metodo para transformar Bytes y GigaBytes
-        private double ConvertBytesToGigabytes(long bytes)
+    public class GetHostname : ICommandStrategy
+    {
+        public async Task<string> ExecuteAsync()
         {
-            const long BytesInGigabyte = 1073741824L;
-            return bytes / (double)BytesInGigabyte;
+            try
+            {
+                //Usamos la liberia para ejecutar un comando con CMD
+                var cmd = await CMDExecutionLibrary.RunCommandAsync("hostname");
+                if (cmd.result)
+                {
+                    //Retornamos el nombre del host
+                    return cmd.response.Replace("\r\n", "");
+                }
+                else
+                {
+                    //No se ejecuto el comando 
+                    return ($"Error en la ejecucion del comando. {cmd.response}");
+                }
+            }
+            catch (Exception ex)
+            {
+                return $"Hubo un problema {ex.Message}";
+            }
         }
     }
 }
