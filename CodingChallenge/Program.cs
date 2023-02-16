@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 //Registramos la interfaz para la implementacion del servicio al inicio del proyecto
-builder.Services.AddScoped<ICommandStrategy, CommandStrategy>();
+builder.Services.AddScoped<ICommandStrategy, CommandStrategyService>();
 
 var app = builder.Build();
 

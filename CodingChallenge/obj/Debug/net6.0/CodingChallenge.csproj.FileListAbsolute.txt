@@ -25,3 +25,29 @@ C:\Users\PC-DESARROLLO\OneDrive - LOGISTECSA\Documentos\Visual Studio 2022\Codin
 C:\Users\PC-DESARROLLO\OneDrive - LOGISTECSA\Documentos\Visual Studio 2022\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.pdb
 C:\Users\PC-DESARROLLO\OneDrive - LOGISTECSA\Documentos\Visual Studio 2022\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.genruntimeconfig.cache
 C:\Users\PC-DESARROLLO\OneDrive - LOGISTECSA\Documentos\Visual Studio 2022\CodingChallenge\CodingChallenge\obj\Debug\net6.0\ref\CodingChallenge.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\appsettings.json
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\CodingChallenge.exe
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\CodingChallenge.deps.json
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\CodingChallenge.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\CodingChallenge.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\ref\CodingChallenge.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\CodingChallenge.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\scopedcss\bundle\CodingChallenge.styles.css
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.CopyComplete
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\ref\CodingChallenge.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\coding-challenge-capmation\CodingChallenge\obj\Debug\net6.0\CodingChallenge.genruntimeconfig.cache

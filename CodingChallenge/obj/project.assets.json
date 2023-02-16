@@ -208,19 +208,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC-DESARROLLO\\.nuget\\packages\\": {}
+    "C:\\Users\\franc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC-DESARROLLO\\OneDrive - LOGISTECSA\\Documentos\\Visual Studio 2022\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\coding-challenge-capmation\\CodingChallenge\\CodingChallenge.csproj",
       "projectName": "CodingChallenge",
-      "projectPath": "C:\\Users\\PC-DESARROLLO\\OneDrive - LOGISTECSA\\Documentos\\Visual Studio 2022\\CodingChallenge\\CodingChallenge\\CodingChallenge.csproj",
-      "packagesPath": "C:\\Users\\PC-DESARROLLO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC-DESARROLLO\\OneDrive - LOGISTECSA\\Documentos\\Visual Studio 2022\\CodingChallenge\\CodingChallenge\\obj\\",
+      "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\coding-challenge-capmation\\CodingChallenge\\CodingChallenge.csproj",
+      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\coding-challenge-capmation\\CodingChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC-DESARROLLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -269,7 +269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
